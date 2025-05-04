@@ -1,0 +1,1 @@
+# Kindle-Fire-HD-7-2012-
