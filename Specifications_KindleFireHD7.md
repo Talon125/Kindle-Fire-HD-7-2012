@@ -1,3 +1,19 @@
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [https://en.wikipedia.org/wiki/Fire\_HD#Discontinued\_Fire\_HD\_tablet\_devices](#httpsenwikipediaorgwikifire_hddiscontinued_fire_hd_tablet_devices)
+- [https://developer.amazon.com/docs/fire-tablets/ft-device-specifications-firehd-models.html?v=firehd7\_2012](#httpsdeveloperamazoncomdocsfire-tabletsft-device-specifications-firehd-modelshtmlvfirehd7_2012)
+  - [Feature Specifications — Kindle Fire HD 7 (2012, 2nd Gen)](#feature-specifications--kindle-fire-hd-7-2012-2nd-gen)
+  - [Media Specifications — Kindle Fire HD 7 (2012, 2nd Gen)](#media-specifications--kindle-fire-hd-7-2012-2nd-gen)
+    - [Output Specs](#output-specs)
+    - [Video Codecs](#video-codecs)
+    - [Video Features](#video-features)
+    - [Audio Codecs](#audio-codecs)
+    - [Audio Features](#audio-features)
+    - [Features and Formats](#features-and-formats)
+    - [DRM Specs](#drm-specs)
+- [https://en.wikipedia.org/wiki/Fire\_OS#List\_of\_Fire\_OS\_versions](#httpsenwikipediaorgwikifire_oslist_of_fire_os_versions)
+
+
 ## https://en.wikipedia.org/wiki/Fire_HD#Discontinued_Fire_HD_tablet_devices
 
 |                                   |                                                                |
