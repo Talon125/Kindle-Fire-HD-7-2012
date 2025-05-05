@@ -30,3 +30,26 @@ See [Guide_TWRP/README.md](Guide_TWRP/README.md)
 
 ## Custom ROMs
 Have yet to try
+
+## Nifty ADB commands
+ADB = Android Debugging Bridge
+
+### List packages
+```
+pm list packages
+```
+
+### Start Camera
+```
+am start -n com.android.camera/.Camera
+```
+
+### Start Settings
+```
+am start -n com.android.settings/.Settings
+```
+
+### Go into Developer Options (Settings)
+```
+am start -a android.settings.APPLICATION_DEVELOPMENT_SETTINGS
+```
