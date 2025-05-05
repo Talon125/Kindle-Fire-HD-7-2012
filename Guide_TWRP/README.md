@@ -1,5 +1,15 @@
 # Putting TWRP on your Kindle Fire HD 7" (2012)
 
+## Table of Contents
+- [Putting TWRP on your Kindle Fire HD 7" (2012)](#putting-twrp-on-your-kindle-fire-hd-7-2012)
+  - [Table of Contents](#table-of-contents)
+  - [Sources of the files](#sources-of-the-files)
+    - [`stuff/FireFlash.apk`](#stufffireflashapk)
+    - [`stuff/kfhd7-freedom-boot-7.4.6.img`](#stuffkfhd7-freedom-boot-746img)
+    - [`stuff/kfhd7-twrp-3.0.2-3-recovery.img`](#stuffkfhd7-twrp-302-3-recoveryimg)
+  - [Procedure](#procedure)
+  - [Booting into Recovery (now TWRP)](#booting-into-recovery-now-twrp)
+
 ## Sources of the files
 
 ### `stuff/FireFlash.apk`
