@@ -1,0 +1,44 @@
+My random notes, not super important
+
+===
+
+packages
+
+adb or android-tools-adb  
+fastboot or android-tools-fastboot
+
+---
+
+adb wait-for-device
+
+[nah] adb pull /system/app/Backup-Restore.apk . > /dev/null
+[nah] adb pull /system/bin/ric . > /dev/null
+
+adb push stuff/busybox /data/local/tmp/busybox
+adb push stuff/su /data/local/tmp/su
+adb push stuff/Superuser.apk /data/local/tmp/.
+adb shell chmod 755 /data/local/tmp/busybox
+
+adb restore stuff/fakebackup.ab
+
+adb shell "while ! ln -s /data/local.prop /data/data/com.android.settings/a/file99; do :; done" > /dev/null
+
+adb reboot
+adb wait-for-device
+
+adb shell "/data/local/tmp/busybox mount -o remount,rw /system && /data/local/tmp/busybox mv /data/local/tmp/su /system/xbin/su && /data/local/tmp/busybox mv /data/local/tmp/Superuser.apk /system/app/Superuser.apk && /data/local/tmp/busybox cp /data/local/tmp/busybox /system/xbin/busybox && chown 0.0 /system/xbin/su && chmod 06755 /system/xbin/su && chmod 655 /system/app/Superuser.apk && chmod 755 /system/xbin/busybox && rm /data/local.prop && reboot"
+
+---
+
+/data/local/tmp/busybox mount -o remount,rw /system && 
+/data/local/tmp/busybox mv /data/local/tmp/su /system/xbin/su && 
+/data/local/tmp/busybox mv /data/local/tmp/Superuser.apk /system/app/Superuser.apk && 
+/data/local/tmp/busybox cp /data/local/tmp/busybox /system/xbin/busybox && 
+chown 0.0 /system/xbin/su && 
+chmod 06755 /system/xbin/su && 
+chmod 655 /system/app/Superuser.apk && 
+chmod 755 /system/xbin/busybox && 
+rm /data/local.prop && 
+reboot
+
+===

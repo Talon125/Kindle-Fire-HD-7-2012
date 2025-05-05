@@ -15,4 +15,11 @@ Should the Internet Archive be currently down, then you may find manually copied
 [Specifications_KindleFireHD7.md](Specifications_KindleFireHD7.md).
 
 ## Root (SuperSU)
-Documentation coming soon
+Root (installs SuperSU app too) by manually entering `adb` commands in Linux.
+See [Guide_Root/README.md](Guide_Root/README.md)
+
+## TWRP
+Have yet to try
+
+## Custom ROMs
+Have yet to try
