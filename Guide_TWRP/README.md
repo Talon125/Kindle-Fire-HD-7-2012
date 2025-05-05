@@ -25,7 +25,8 @@ at _Step 2_
 ## Procedure
 
 Put the 3 files in `stuff/` onto your Kindle.  
-I then put the 2 `.img` files in `/mnt/sdcard/`.
+I then put the 2 `.img` files in `/mnt/sdcard/` (where folders like Documents
+and Downloads are).
 
 Install FireFlash.apk
 
