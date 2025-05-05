@@ -15,8 +15,12 @@ Should the Internet Archive be currently down, then you may find manually copied
 [Specifications_KindleFireHD7.md](Specifications_KindleFireHD7.md).
 
 ## Root (SuperSU)
-Root (installs SuperSU app too) by manually entering `adb` commands in Linux.
+Root (installs SuperSU app too) by manually entering `adb` commands in Linux.  
 See [Guide_Root/README.md](Guide_Root/README.md)
+
+## Backup
+Before TWRP, make a backup using `dd`.  
+See [Guide_Backup/README.md](Guide_Backup/README.md)
 
 ## TWRP
 Have yet to try
