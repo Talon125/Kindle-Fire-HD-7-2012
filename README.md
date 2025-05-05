@@ -1,4 +1,6 @@
 # Kindle Fire HD 7" (2012)
+Tate PVT 08
+
 This is a discontinued Android-based tablet by Amazon. The latest system version
 is 7.5.1. It runs Fire OS, this version being based on Android 4. This tablet
 was the 2nd generation in the Fire Tablet series. The one I'm using has an
