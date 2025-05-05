@@ -36,3 +36,7 @@ them over to my laptop.
 Settings > Developer options > Smallest width  
 is set to 600 dp  
 ...500 dp looks better
+
+This OS kinda seems unstable  
+It will crash, which looks like it just turning off. Then pressing the power
+button, it will boot again.
