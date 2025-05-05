@@ -39,6 +39,12 @@ Have yet to try
 ## Nifty ADB commands
 ADB = Android Debugging Bridge
 
+https://techblogs.42gears.com/list-of-all-widely-used-adb-commands/
+
+https://gist.github.com/Pulimet/5013acf2cd5b28e55036c82c91bd56d8
+
+also see `/adb_command_help_texts/` (folder in this repo)
+
 ### List packages
 ```
 pm list packages
