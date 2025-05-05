@@ -24,8 +24,9 @@ See [Guide_Root/README.md](Guide_Root/README.md)
 Before TWRP, make a backup using `dd`.  
 See [Guide_Backup/README.md](Guide_Backup/README.md)
 
-## TWRP
-Have yet to try
+## TWRP (Team Win Recovery Project)
+Flash TWRP 3.0.2 to the Kindle.  
+See [Guide_TWRP/README.md](Guide_TWRP/README.md)
 
 ## Custom ROMs
 Have yet to try
