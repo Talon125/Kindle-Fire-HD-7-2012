@@ -32,3 +32,9 @@ Now upgraded from Android 4.0.3 to Android 7.1.2!
 When adjusting the volume, it has the same noise as it had in Fire OS.  
 Personal files are gone, though, including TWRP backups. Good thing I copied
 them over to my laptop.
+
+Settings > Developer options > Smallest width  
+is set to 600 dp  
+...500 dp looks better
+
+Brightness control doesn't work.
