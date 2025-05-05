@@ -36,5 +36,3 @@ them over to my laptop.
 Settings > Developer options > Smallest width  
 is set to 600 dp  
 ...500 dp looks better
-
-Brightness control doesn't work.
