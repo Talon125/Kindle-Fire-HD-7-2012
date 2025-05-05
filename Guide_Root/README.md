@@ -167,7 +167,11 @@ Now we will copy over the files we need for rooting to a temporary directory on
 the Kindle:
 ```bash
 adb push stuff/busybox /data/local/tmp/busybox
+```
+```bash
 adb push stuff/su /data/local/tmp/su
+```
+```bash
 adb push stuff/Superuser.apk /data/local/tmp/.
 ```
 

@@ -9,8 +9,14 @@ but with screenshots I made of my experience.
 
 ```bash
 adb shell su -c "dd if=/dev/block/mmcblk0boot0 of=/sdcard/boot0block.img"
+```
+```bash
 adb shell su -c "dd if=/dev/block/platform/omap/omap_hsmmc.1/by-name/boot of=/sdcard/stock-boot.img"
+```
+```bash
 adb shell su -c "dd if=/dev/block/platform/omap/omap_hsmmc.1/by-name/recovery of=/sdcard/stock-recovery.img"
+```
+```bash
 adb shell su -c "dd if=/dev/block/platform/omap/omap_hsmmc.1/by-name/system of=/sdcard/stock-system.img"
 ```
 
@@ -32,8 +38,14 @@ made to your current working directory:
 
 ```bash
 adb pull /sdcard/boot0block.img .
+```
+```bash
 adb pull /sdcard/stock-boot.img .
+```
+```bash
 adb pull /sdcard/stock-recovery.img .
+```
+```bash
 adb pull /sdcard/stock-system.img .
 ```
 
