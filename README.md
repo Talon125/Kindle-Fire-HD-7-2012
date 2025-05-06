@@ -34,7 +34,11 @@ Flash TWRP 3.0.2 to the Kindle.
 See [Guide_TWRP/README.md](Guide_TWRP/README.md)
 
 ## Custom ROMs
-Have yet to try
+I tried `crDroidAndroid-7.1.2-20181021-tate-v3.8.9.zip`, and it works! Except
+for the camera, though. NewPipe (YouTube) runs fine on it, though the only
+quality settings available for the videos is 360p? Not sure if that's because of
+NewPipe or the OS or the Kindle.  
+See [Guide_CustomROM/README.md](Guide_CustomROM/README.md)
 
 ## Nifty ADB commands
 ADB = Android Debugging Bridge
