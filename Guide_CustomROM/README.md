@@ -15,7 +15,8 @@ Then I booted into TWRP.
 
 ![](Screenshots/Screenshot_2025-05-06-00-25-18.png)
 
-Now I tapped "Reboot System".
+Now I tapped "Wipe cache/dalvik".  
+After that was done... reboot!
 
 Waiting... (blue Kindle Fire logo)  
 then cool CRDROID boot animation!  
@@ -37,6 +38,6 @@ Settings > Developer options > Smallest width
 is set to 600 dp  
 ...500 dp looks better
 
-This OS kinda seems unstable  
-It will crash, which looks like it just turning off. Then pressing the power
-button, it will boot again.
+The camera doesn't work:
+
+![](Screenshots/Screenshot_20250506-043909.png)
